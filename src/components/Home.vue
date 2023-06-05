@@ -75,7 +75,6 @@ export default {
   name: "Home",
   components: {
     NewEmployee,
-    EmpDetail,
     EmployeeLogin,
     UpdateEmployee,
   },
