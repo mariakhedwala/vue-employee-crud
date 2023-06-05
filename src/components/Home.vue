@@ -64,7 +64,6 @@
 
 <script>
 import axios from "axios";
-import EmpDetail from "./EmpDetail.vue";
 import NewEmployee from "./NewEmployee.vue";
 import EmployeeLogin from "./EmployeeLogin.vue";
 import UpdateEmployee from "./UpdateEmployee.vue";
